@@ -1,0 +1,7 @@
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\ReservationGrpc\bin\Debug\ReservationGrpc.exe.config
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\ReservationGrpc\bin\Debug\ReservationGrpc.exe
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\ReservationGrpc\bin\Debug\ReservationGrpc.pdb
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\ReservationGrpc\obj\Debug\ReservationGrpc.csprojAssemblyReference.cache
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\ReservationGrpc\obj\Debug\ReservationGrpc.csproj.CoreCompileInputs.cache
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\ReservationGrpc\obj\Debug\ReservationGrpc.exe
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\ReservationGrpc\obj\Debug\ReservationGrpc.pdb

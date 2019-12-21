@@ -1,0 +1,83 @@
+﻿syntax="proto3";
+
+package res.protocol;
+
+//option java_multiple_files = true;
+//option java_package = "reservation.network.protobuffprotocol";
+//option java_outer_classname = "ReservationProtobufs";
+
+
+
+
+message AgencyEmployee{
+    string id =1;
+    string username=2;
+    string password=3;
+}
+
+message Journey {
+    string id=1;
+    string touristicObjective=2;
+    string transportCompany=3;
+    string departureTime=4;
+    double price =5;
+    int32 noAvailableSeats=6;
+}
+
+
+message Reservation{
+    string id=1;
+    string customerName=2;
+    string phoneNumber=3;
+    int32 noTickets=4;
+    Journey journey=5;
+}
+
+message FilteredJourneyDTO{
+    string destination=1;
+    string startTime=2;
+    string endTime=3;
+}
+
+message ReservationRequest{
+    enum Type { UNKNOWN=0 ; LOGIN=1; LOGOUT= 2; GETALLJOURNEYS=3; GETFILTEREDJOURNEYS=4; SAVERESERVATION=5; }
+
+    Type type=1;
+    oneof field{
+        FilteredJourneyDTO filteredJourney=2;
+        AgencyEmployee agencyEmployee=3;
+        Reservation reservation=4;
+        Journey journey =5;
+    }
+}
+
+message Journeys {
+    repeated Journey journey=1;
+}
+
+message ReservationResponse{
+    enum Type { UNKNOWN=0; OK= 1; ERROR = 2; GETALLJOURNEYS=3; GETFILTEREDJOURNEYS = 4; SAVERESERVATION=5;   }
+
+    Type type = 1;
+
+    oneof field{
+        string errorMessage=2;
+        Journeys journeys=3;
+        Reservation reservation=4;
+        Journey journey=5;
+    }
+}
+message Notification{
+    Journey journey=1;
+}
+
+service ReservationService{
+
+
+    rpc login(ReservationRequest) returns (ReservationResponse);
+    rpc getJourneys(ReservationRequest) returns (ReservationResponse);
+    rpc getFilteredJourneys(ReservationRequest) returns (ReservationResponse);
+    rpc saveReservation(ReservationRequest) returns ( ReservationResponse );
+    rpc logout(ReservationRequest) returns (ReservationResponse);
+    rpc subscribe(ReservationRequest ) returns (stream Notification);
+}

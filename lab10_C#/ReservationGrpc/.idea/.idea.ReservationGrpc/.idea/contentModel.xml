@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ancuta\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ancuta\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_ReservationGrpc.-307631322.00" t="ExcludeRecursive" />
+    <e p="E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc" t="IncludeFlat">
+      <e p="model" t="IncludeRecursive">
+        <e p="AgencyEmployee.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="IHasID.cs" t="Include" />
+        <e p="Journey.cs" t="Include" />
+        <e p="model.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="Reservation.cs" t="Include" />
+      </e>
+      <e p="networking" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="networking.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ProtoUtils.cs" t="Include" />
+        <e p="reservationProtocol.proto" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive">
+        <e p="Grpc.Core.1.20.1\runtimes\linux\native\libgrpc_csharp_ext.x64.so" t="Include" />
+        <e p="Grpc.Core.1.20.1\runtimes\linux\native\libgrpc_csharp_ext.x86.so" t="Include" />
+        <e p="Grpc.Core.1.20.1\runtimes\osx\native\libgrpc_csharp_ext.x64.dylib" t="Include" />
+        <e p="Grpc.Core.1.20.1\runtimes\osx\native\libgrpc_csharp_ext.x86.dylib" t="Include" />
+        <e p="Grpc.Core.1.20.1\runtimes\win\native\grpc_csharp_ext.x64.dll" t="Include" />
+        <e p="Grpc.Core.1.20.1\runtimes\win\native\grpc_csharp_ext.x86.dll" t="Include" />
+      </e>
+      <e p="persistance" t="IncludeRecursive">
+        <e p="AgencyEmployeeRepository.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DBUtils.cs" t="Include" />
+        <e p="IAgencyEmployeeRepository.cs" t="Include" />
+        <e p="ICrudRepository.cs" t="Include" />
+        <e p="IJourneyRepository.cs" t="Include" />
+        <e p="IReservationRepository.cs" t="Include" />
+        <e p="JourneyRepository.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="persistance.csproj" t="IncludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="RepositoryException.cs" t="Include" />
+        <e p="ReservationRepository.cs" t="Include" />
+      </e>
+      <e p="ReservationGrpc" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ReservationGrpc.csproj" t="IncludeRecursive" />
+      </e>
+      <e p="ReservationGrpc.sln" t="IncludeFlat" />
+      <e p="server" t="IncludeRecursive">
+        <e p="App.config" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+        <e p="ReservationServerImpl.cs" t="Include" />
+        <e p="server.csproj" t="IncludeRecursive" />
+        <e p="StartServer.cs" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

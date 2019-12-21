@@ -1,0 +1,8 @@
+rootProject.name = 'reservationGrpc'
+include 'reservationModel'
+include 'reservationPersistence'
+include 'reservationServices'
+include 'reservationServer'
+include 'reservationNetwork'
+include 'reservationClient'
+

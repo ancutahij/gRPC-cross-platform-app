@@ -1,0 +1,14 @@
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab8\ReservationsSockets\Model\obj\Debug\model.csprojAssemblyReference.cache
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab8\ReservationsSockets\Model\obj\Debug\model.csproj.CoreCompileInputs.cache
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab8\ReservationsSockets\Model\bin\Debug\Model.dll.config
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab8\ReservationsSockets\Model\bin\Debug\Model.dll
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab8\ReservationsSockets\Model\bin\Debug\Model.pdb
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab8\ReservationsSockets\Model\obj\Debug\Model.dll
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab8\ReservationsSockets\Model\obj\Debug\Model.pdb
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\model\bin\Debug\Model.dll.config
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\model\bin\Debug\Model.dll
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\model\bin\Debug\Model.pdb
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\model\obj\Debug\model.csprojAssemblyReference.cache
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\model\obj\Debug\model.csproj.CoreCompileInputs.cache
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\model\obj\Debug\Model.dll
+E:\anul_2\sem_2\Metode de proiectare si programare\labs\lab10\lab10_C#\ReservationGrpc\model\obj\Debug\Model.pdb

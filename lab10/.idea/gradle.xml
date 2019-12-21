@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="disableWrapperSourceDistributionNotification" value="true" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/reservationClient" />
+            <option value="$PROJECT_DIR$/reservationModel" />
+            <option value="$PROJECT_DIR$/reservationNetwork" />
+            <option value="$PROJECT_DIR$/reservationPersistence" />
+            <option value="$PROJECT_DIR$/reservationServer" />
+            <option value="$PROJECT_DIR$/reservationServices" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
